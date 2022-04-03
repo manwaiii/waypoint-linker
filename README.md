@@ -16,4 +16,13 @@ Run the app in the development mode
 
 # How to creat production build
 1. ### `npm run build`
-Run the npm run build will build the app for production to the `build` folder.\
+Run the npm run build will build the app for production to the `build` folder.\\\
+
+Success case:\
+![alt text](https://github.com/manwaiii/waypoint-linker/blob/main/images/success%20case.png)
+
+Fail case 1:\
+![alt text](https://github.com/manwaiii/waypoint-linker/blob/main/images/fail%20case.png)
+
+Fail case 2:\
+![alt text](https://github.com/manwaiii/waypoint-linker/blob/main/images/fail%20case%202.png)
