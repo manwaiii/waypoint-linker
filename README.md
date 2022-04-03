@@ -18,6 +18,8 @@ Run the app in the development mode
 1. ### `npm run build`
 Run the npm run build will build the app for production to the `build` folder.\\\
 
+
+# Expected Result
 Success case:\
 ![alt text](https://github.com/manwaiii/waypoint-linker/blob/main/images/success%20case.png)
 
